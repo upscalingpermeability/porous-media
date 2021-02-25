@@ -1,0 +1,48 @@
+model:[1, 1, 64, 'elu', 'normal', 0.3, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 1, 256, 'elu', 'glorot_normal', 0.2, 'MaxPooling2D', 1, 128, 'relu', 'glorot_normal', 0.2, 0, 32, 'relu', 'normal', 0.2, 0, 128, 'elu', 'normal', 0.2, 'zero', 50, 'adam']
+iteracao:1
+acuracia:0.015950821340084076
+media:0.23333415292203427
+model:[1, 1, 64, 'elu', 'normal', 0.3, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 1, 256, 'elu', 'glorot_normal', 0.2, 'MaxPooling2D', 1, 128, 'relu', 'glorot_normal', 0.2, 0, 32, 'relu', 'normal', 0.2, 0, 128, 'elu', 'normal', 0.2, 'zero', 50, 'adam']
+iteracao:2
+acuracia:0.013900671154260635
+media:0.30938550538383425
+model:[1, 0, 128, 'elu', 'glorot_uniform', 0.3, 'AveragePooling2D', 0, 1, 256, 'relu', 'glorot_uniform', 0.4, 'AveragePooling2D', 0, 1, 64, 'relu', 'glorot_uniform', 0.3, 'MaxPooling2D', 1, 64, 'elu', 'glorot_normal', 0.2, 0, 16, 'elu', 'normal', 0.4, 1, 128, 'elu', 'glorot_uniform', 0.4, 'zero', 50, 'rmsprop']
+iteracao:3
+acuracia:0.013458178378641605
+media:0.3629705079738051
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:30
+acuracia:0.013422882184386253
+media:1.5479882773477585
+model:[1, 0, 64, 'relu', 'normal', 0.4, 'MaxPooling2D', 0, 1, 64, 'elu', 'normal', 0.2, 'AveragePooling2D', 0, 1, 32, 'elu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 32, 'elu', 'zero', 0.2, 0, 128, 'relu', 'zero', 0.3, 'zero', 20, 'adadelta']
+iteracao:33
+acuracia:0.012785770930349827
+media:1.9007184152677654
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:34
+acuracia:0.01077952142804861
+media:2.000731728821993
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:44
+acuracia:0.010765268467366695
+media:2.1691589889861644
+model:[1, 0, 64, 'relu', 'normal', 0.4, 'MaxPooling2D', 0, 1, 64, 'elu', 'normal', 0.2, 'AveragePooling2D', 0, 1, 32, 'elu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 32, 'elu', 'zero', 0.2, 0, 128, 'relu', 'zero', 0.3, 'zero', 20, 'adadelta']
+iteracao:51
+acuracia:0.010758719407022
+media:2.37570267460309
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:53
+acuracia:0.009505516849458218
+media:2.510329430857673
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:72
+acuracia:0.00943746231496334
+media:2.771255899881944
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:84
+acuracia:0.00918031670153141
+media:2.9479612490348517
+model:[1, 1, 64, 'relu', 'normal', 0.2, 'MaxPooling2D', 0, 0, 32, 'relu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 128, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 16, 'relu', 'zero', 0.2, 0, 64, 'elu', 'normal', 0.4, 0, 16, 'elu', 'glorot_normal', 0.3, 'zero', 20, 'adadelta']
+iteracao:96
+acuracia:0.009026468731462955
+media:3.1412404012866317
