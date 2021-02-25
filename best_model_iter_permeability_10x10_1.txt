@@ -1,0 +1,112 @@
+model:[1, 0, 128, 'relu', 'glorot_normal', 0.2, 'MaxPooling2D', 0, 1, 256, 'elu', 'normal', 0.2, 'AveragePooling2D', 1, 1, 32, 'elu', 'normal', 0.2, 'MaxPooling2D', 0, 16, 'elu', 'glorot_uniform', 0.2, 0, 128, 'relu', 'glorot_normal', 0.3, 0, 64, 'relu', 'glorot_uniform', 0.3, 'glorot_normal', 40, 'adam']
+iteracao:1
+acuracia:0.027117403224110603
+media:0.31489094803109763
+model:[1, 0, 128, 'relu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 1, 256, 'elu', 'zero', 0.4, 'AveragePooling2D', 1, 1, 64, 'relu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 16, 'relu', 'glorot_uniform', 0.3, 0, 64, 'relu', 'normal', 0.2, 1, 64, 'elu', 'normal', 0.2, 'glorot_normal', 40, 'rmsprop']
+iteracao:2
+acuracia:0.024800466373562813
+media:0.4661386299878359
+model:[1, 0, 128, 'relu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 1, 256, 'elu', 'zero', 0.4, 'AveragePooling2D', 1, 1, 64, 'relu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 16, 'relu', 'glorot_uniform', 0.3, 0, 64, 'relu', 'normal', 0.2, 1, 64, 'elu', 'normal', 0.2, 'glorot_normal', 40, 'rmsprop']
+iteracao:3
+acuracia:0.016070600599050522
+media:0.5943874961137772
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:8
+acuracia:0.007952221669256687
+media:0.9041239078063518
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:9
+acuracia:0.007222301326692104
+media:0.8106284236069768
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:10
+acuracia:0.005616526119410992
+media:1.3076759132090956
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:11
+acuracia:0.0055047329515218735
+media:2.0205858155619354
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:12
+acuracia:0.004701652564108372
+media:4.975872180433944
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:14
+acuracia:0.004291498567909002
+media:40.04666544852313
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:17
+acuracia:0.0036186815705150366
+media:295.85976423859364
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:19
+acuracia:0.003432351630181074
+media:289.7347350450093
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:28
+acuracia:0.002955405740067363
+media:320.4459739151667
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:34
+acuracia:0.0028837055433541536
+media:349.12281649894317
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:38
+acuracia:0.0028111112769693136
+media:389.43286294213266
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:40
+acuracia:0.0027964513283222914
+media:374.18718041705665
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:41
+acuracia:0.002760397968813777
+media:406.89190487879097
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:43
+acuracia:0.0026342731434851885
+media:461.12198396366324
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:44
+acuracia:0.0025676367804408073
+media:445.3970540718641
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:49
+acuracia:0.002523169619962573
+media:497.48994258233114
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:52
+acuracia:0.002450424013659358
+media:513.741076258102
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:55
+acuracia:0.0024308927822858095
+media:523.2578887465712
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:62
+acuracia:0.0023528109304606915
+media:510.7738532598177
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:74
+acuracia:0.002350822789594531
+media:1158.8310094701756
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:75
+acuracia:0.0023482523392885923
+media:1267.6602540131169
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:79
+acuracia:0.002328879665583372
+media:1286.591726770983
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:80
+acuracia:0.0021453050430864096
+media:1191.4240811522375
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:85
+acuracia:0.002107763197273016
+media:1325.96257777886
+model:[1, 1, 64, 'relu', 'glorot_uniform', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'zero', 0.3, 'MaxPooling2D', 0, 1, 128, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 32, 'elu', 'zero', 0.3, 0, 64, 'relu', 'zero', 0.4, 0, 32, 'relu', 'glorot_normal', 0.4, 'zero', 10, 'adadelta']
+iteracao:100
+acuracia:0.0020154747180640697
+media:1396.4560224803956
