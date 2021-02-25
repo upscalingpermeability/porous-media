@@ -1,0 +1,92 @@
+model:[1, 1, 64, 'elu', 'glorot_uniform', 0.4, 'AveragePooling2D', 1, 1, 128, 'elu', 'glorot_normal', 0.3, 'AveragePooling2D', 1, 1, 128, 'relu', 'normal', 0.3, 'MaxPooling2D', 0, 16, 'elu', 'zero', 0.4, 1, 16, 'relu', 'glorot_uniform', 0.2, 0, 16, 'relu', 'zero', 0.3, 'glorot_uniform', 50, 'adam']
+iteracao:1
+acuracia:0.8108000159263611
+media:0.3013500012457371
+model:[1, 1, 64, 'elu', 'glorot_normal', 0.4, 'AveragePooling2D', 1, 1, 128, 'elu', 'glorot_normal', 0.3, 'AveragePooling2D', 1, 1, 32, 'elu', 'zero', 0.3, 'MaxPooling2D', 0, 16, 'elu', 'glorot_uniform', 0.2, 0, 16, 'elu', 'glorot_normal', 0.2, 0, 128, 'relu', 'zero', 0.4, 'glorot_normal', 50, 'adam']
+iteracao:2
+acuracia:0.8561999797821045
+media:0.4507750003784895
+model:[1, 1, 32, 'elu', 'glorot_uniform', 0.3, 'MaxPooling2D', 1, 1, 32, 'elu', 'glorot_uniform', 0.4, 'MaxPooling2D', 1, 0, 128, 'elu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 16, 'relu', 'glorot_uniform', 0.2, 1, 64, 'elu', 'zero', 0.2, 0, 128, 'relu', 'normal', 0.2, 'glorot_normal', 60, 'adam']
+iteracao:3
+acuracia:0.8658000230789185
+media:0.5768930008262396
+model:[1, 1, 64, 'elu', 'glorot_normal', 0.4, 'AveragePooling2D', 1, 1, 128, 'elu', 'glorot_normal', 0.3, 'AveragePooling2D', 1, 1, 32, 'elu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 64, 'elu', 'glorot_normal', 0.2, 0, 128, 'elu', 'normal', 0.4, 1, 64, 'relu', 'zero', 0.4, 'glorot_normal', 50, 'adam']
+iteracao:4
+acuracia:0.8686000108718872
+media:0.6248030020296573
+model:[1, 1, 32, 'elu', 'glorot_uniform', 0.3, 'MaxPooling2D', 1, 1, 32, 'elu', 'glorot_uniform', 0.4, 'MaxPooling2D', 1, 0, 128, 'elu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 16, 'relu', 'glorot_uniform', 0.2, 1, 64, 'elu', 'zero', 0.2, 0, 128, 'relu', 'normal', 0.2, 'glorot_normal', 60, 'adam']
+iteracao:5
+acuracia:0.8719000220298767
+media:0.6866940003633499
+model:[1, 1, 64, 'elu', 'glorot_normal', 0.4, 'AveragePooling2D', 1, 1, 128, 'elu', 'glorot_normal', 0.3, 'AveragePooling2D', 1, 1, 32, 'elu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 64, 'elu', 'glorot_normal', 0.2, 0, 128, 'elu', 'normal', 0.4, 1, 64, 'relu', 'normal', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:6
+acuracia:0.878600001335144
+media:0.6924100021272898
+model:[1, 1, 32, 'elu', 'glorot_uniform', 0.3, 'MaxPooling2D', 1, 1, 32, 'elu', 'glorot_uniform', 0.4, 'AveragePooling2D', 1, 0, 256, 'relu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 16, 'relu', 'glorot_uniform', 0.2, 1, 64, 'elu', 'zero', 0.2, 0, 128, 'relu', 'normal', 0.2, 'glorot_normal', 60, 'adam']
+iteracao:8
+acuracia:0.8834999799728394
+media:0.727362000271678
+model:[1, 1, 32, 'elu', 'glorot_uniform', 0.3, 'MaxPooling2D', 1, 1, 64, 'relu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 1, 256, 'relu', 'glorot_uniform', 0.4, 'MaxPooling2D', 0, 16, 'relu', 'glorot_uniform', 0.2, 1, 64, 'elu', 'zero', 0.2, 0, 128, 'relu', 'normal', 0.2, 'glorot_normal', 60, 'adam']
+iteracao:11
+acuracia:0.8835999965667725
+media:0.7742160020023584
+model:[1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 32, 'relu', 'glorot_uniform', 0.2, 1, 128, 'elu', 'normal', 0.4, 1, 64, 'relu', 'normal', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:13
+acuracia:0.883899986743927
+media:0.7187619981914759
+model:[1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 32, 'relu', 'glorot_uniform', 0.2, 1, 128, 'elu', 'normal', 0.4, 1, 64, 'relu', 'normal', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:14
+acuracia:0.8845999836921692
+media:0.7567270013689995
+model:[1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'glorot_uniform', 0.2, 'MaxPooling2D', 0, 32, 'relu', 'glorot_uniform', 0.2, 1, 128, 'elu', 'normal', 0.4, 1, 64, 'relu', 'normal', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:15
+acuracia:0.8910999894142151
+media:0.7806129963696002
+model:[1, 1, 128, 'elu', 'normal', 0.3, 'MaxPooling2D', 0, 1, 256, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 0, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 1, 64, 'elu', 'glorot_normal', 0.2, 0, 16, 'elu', 'glorot_normal', 0.4, 0, 128, 'elu', 'zero', 0.3, 'glorot_uniform', 20, 'adam']
+iteracao:24
+acuracia:0.8919000029563904
+media:0.7945039995014668
+model:[1, 1, 128, 'elu', 'normal', 0.3, 'MaxPooling2D', 0, 1, 64, 'elu', 'normal', 0.4, 'MaxPooling2D', 0, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 1, 64, 'elu', 'glorot_normal', 0.2, 1, 16, 'elu', 'normal', 0.4, 1, 64, 'elu', 'zero', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:31
+acuracia:0.8920000195503235
+media:0.8003669986873865
+model:[1, 1, 128, 'elu', 'normal', 0.3, 'MaxPooling2D', 0, 1, 64, 'elu', 'normal', 0.4, 'MaxPooling2D', 0, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 1, 64, 'elu', 'glorot_normal', 0.2, 1, 16, 'elu', 'normal', 0.4, 1, 64, 'elu', 'zero', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:32
+acuracia:0.892300009727478
+media:0.785865001231432
+model:[1, 1, 128, 'elu', 'normal', 0.3, 'MaxPooling2D', 0, 1, 64, 'elu', 'normal', 0.4, 'MaxPooling2D', 0, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 1, 16, 'elu', 'glorot_normal', 0.2, 0, 16, 'elu', 'normal', 0.4, 1, 64, 'elu', 'zero', 0.4, 'glorot_uniform', 20, 'adam']
+iteracao:34
+acuracia:0.892799973487854
+media:0.810068998336792
+model:[1, 1, 64, 'elu', 'normal', 0.3, 'MaxPooling2D', 0, 1, 64, 'elu', 'normal', 0.4, 'MaxPooling2D', 0, 1, 32, 'relu', 'normal', 0.4, 'MaxPooling2D', 1, 64, 'elu', 'glorot_normal', 0.2, 1, 64, 'elu', 'glorot_normal', 0.4, 0, 128, 'elu', 'zero', 0.3, 'glorot_uniform', 60, 'adam']
+iteracao:35
+acuracia:0.8938999772071838
+media:0.8116920006275177
+model:[1, 1, 32, 'relu', 'normal', 0.3, 'MaxPooling2D', 0, 1, 32, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'normal', 0.2, 'MaxPooling2D', 1, 64, 'elu', 'glorot_normal', 0.2, 1, 64, 'elu', 'normal', 0.4, 1, 128, 'elu', 'glorot_uniform', 0.3, 'glorot_normal', 60, 'adam']
+iteracao:40
+acuracia:0.8949000239372253
+media:0.8060480017960071
+model:[1, 1, 32, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 0, 64, 'elu', 'glorot_normal', 0.2, 1, 64, 'relu', 'normal', 0.2, 1, 128, 'elu', 'normal', 0.2, 'glorot_normal', 60, 'adam']
+iteracao:48
+acuracia:0.895799994468689
+media:0.8161790005117655
+model:[1, 1, 32, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 0, 32, 'elu', 'glorot_uniform', 0.2, 0, 16, 'elu', 'normal', 0.4, 0, 128, 'elu', 'glorot_uniform', 0.2, 'glorot_uniform', 60, 'adam']
+iteracao:52
+acuracia:0.8978999853134155
+media:0.8037720020115375
+model:[1, 1, 64, 'elu', 'normal', 0.4, 'AveragePooling2D', 1, 1, 32, 'relu', 'glorot_normal', 0.2, 'AveragePooling2D', 1, 1, 256, 'relu', 'normal', 0.4, 'MaxPooling2D', 1, 16, 'elu', 'glorot_normal', 0.2, 0, 64, 'elu', 'glorot_normal', 0.3, 0, 128, 'elu', 'glorot_uniform', 0.3, 'glorot_uniform', 60, 'rmsprop']
+iteracao:68
+acuracia:0.8991000056266785
+media:0.7891170006245375
+model:[1, 1, 64, 'elu', 'normal', 0.4, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'MaxPooling2D', 1, 1, 256, 'relu', 'glorot_uniform', 0.4, 'MaxPooling2D', 1, 64, 'elu', 'glorot_uniform', 0.2, 0, 64, 'elu', 'glorot_normal', 0.3, 0, 128, 'elu', 'zero', 0.3, 'glorot_uniform', 60, 'rmsprop']
+iteracao:69
+acuracia:0.8999000191688538
+media:0.8029870025068522
+model:[1, 1, 64, 'elu', 'normal', 0.4, 'AveragePooling2D', 1, 1, 64, 'elu', 'glorot_normal', 0.2, 'MaxPooling2D', 1, 1, 256, 'relu', 'glorot_normal', 0.4, 'AveragePooling2D', 1, 32, 'elu', 'glorot_uniform', 0.2, 0, 16, 'relu', 'normal', 0.4, 0, 128, 'elu', 'zero', 0.4, 'glorot_uniform', 60, 'rmsprop']
+iteracao:70
+acuracia:0.9009000062942505
+media:0.8090210026502609
+model:[1, 1, 64, 'elu', 'normal', 0.4, 'AveragePooling2D', 0, 1, 64, 'elu', 'glorot_normal', 0.2, 'MaxPooling2D', 1, 1, 64, 'relu', 'glorot_normal', 0.4, 'MaxPooling2D', 1, 16, 'elu', 'glorot_uniform', 0.2, 0, 16, 'elu', 'glorot_normal', 0.4, 0, 128, 'elu', 'glorot_uniform', 0.3, 'glorot_uniform', 60, 'rmsprop']
+iteracao:82
+acuracia:0.9014000296592712
+media:0.8003909999877215
