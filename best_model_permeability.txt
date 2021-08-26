@@ -1,0 +1,2 @@
+
+[1, 1, 256, 'elu', 'glorot_uniform', 0.2, 'AveragePooling2D', 1, 1, 32, 'elu', 'normal', 0.3, 'AveragePooling2D', 0, 0, 64, 'elu', 'glorot_uniform', 0.3, 'MaxPooling2D', 0, 16, 'relu', 'glorot_uniform', 0.2, 0, 128, 'relu', 'glorot_normal', 0.2, 0, 128, 'elu', 'glorot_normal', 0.2, 'glorot_normal', 10, 'rmsprop'] #  chomossome
