@@ -1,0 +1,4 @@
+source /opt/intel/Compiler/11.1/072/bin/ifortvars.sh intel64
+ifort -o run RANDOM_NUM.f90 KL_condRW.f90 -mkl
+source /opt/intel/Compiler/11.1/072/bin/ifortvars.sh intel64
+time ./run > saida1.out &
